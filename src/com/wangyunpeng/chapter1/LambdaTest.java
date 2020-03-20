@@ -10,6 +10,7 @@ import java.util.function.Consumer;
  * Lambda 表达式的使用例子
  */
 public class LambdaTest {
+    public static void main(String[] args) {
         Comparator<Integer> comparable = new Comparator<Integer>() {
             @Override
             public int compare(Integer o1, Integer o2) {
@@ -38,6 +39,6 @@ public class LambdaTest {
             dog = (Dog) obj;
         }else {
             dog = null;
-        
+        }
     }
 }
