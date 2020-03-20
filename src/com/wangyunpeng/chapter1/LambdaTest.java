@@ -39,6 +39,7 @@ public class LambdaTest {
             dog = (Dog) obj;
         }else {
             dog = null;
+            dog = null;
         }
     }
 }
