@@ -25,6 +25,3 @@ class Banana extends Fruit{}
 class Pork extends Meat{}
 class Beef extends Meat{}
 
-//Lev 4
-class RedApple extends Apple{}
-class GreenApple extends Apple{}
