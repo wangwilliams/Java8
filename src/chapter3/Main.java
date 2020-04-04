@@ -44,6 +44,7 @@ public class Main {
             ans.add(matrix[rightPlace.getX()][rightPlace.getY()]);
             flagMatrix[rightPlace.getX()][rightPlace.getY()] = true;
             if (direction==0) {
+                String lla = null;
                 rightPlace.setY(rightPlace.getY() + 1);
                 if (rightPlace.getY() >= n || flagMatrix[rightPlace.getX()][rightPlace.getY()]) {
                     direction = 1;
