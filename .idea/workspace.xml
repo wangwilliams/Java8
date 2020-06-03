@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c52a2c67-1ca5-4328-bd2c-4a0e752d6064" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/compareHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/findLeftLeaves.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,7 +31,7 @@
     <session id="530762532">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
@@ -38,23 +39,25 @@
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.36" value="2" />
           <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="56" />
+          <entry key="JAVA" value="58" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8465" />
-          <entry key="PLAIN_TEXT" value="38" />
+          <entry key="JAVA" value="9692" />
+          <entry key="PLAIN_TEXT" value="46" />
           <entry key="VTL" value="49" />
         </counts>
       </usages-collector>
@@ -108,11 +111,32 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter3/findLeftLeaves.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1081">
+              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter3/compareHeight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="789">
+              <caret line="63" column="45" lean-forward="true" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter3/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="140" column="9" lean-forward="true" selection-start-line="138" selection-start-column="8" selection-end-line="140" selection-end-column="9" />
+            <state relative-caret-position="414">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -205,6 +229,8 @@
         <option value="$PROJECT_DIR$/src/com/wangyunpeng/chapter1/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/wangyunpeng/chapter1/JavaSolution.java" />
         <option value="$PROJECT_DIR$/src/chapter3/Solution.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/findLeftLeaves.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/compareHeight.java" />
       </list>
     </option>
   </component>
@@ -232,7 +258,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,6 +275,28 @@
               <item name="java8" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="compareHeight" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="findLeftLeaves.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="findLeftLeaves.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="findLeftLeaves" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="java8" type="b2602c69:ProjectViewProjectNode" />
@@ -482,6 +529,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -491,7 +539,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/android-sdk/android-sdk-windows" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590854029929" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591173202184" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -522,7 +570,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.compareHeight">
     <configuration name="JavaSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wangyunpeng.chapter1.JavaSolution" />
       <module name="java8" />
@@ -562,52 +610,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodRefTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="compareHeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.compareHeight" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wangyunpeng.chapter2.*" />
+          <option name="PATTERN" value="chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wangyunpeng.chapter2" />
-      <option name="MAIN_CLASS_NAME" value="com.wangyunpeng.chapter2.MethodRefTest" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodRefTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="findLeftLeaves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.findLeftLeaves" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wangyunpeng.chapter2.*" />
+          <option name="PATTERN" value="chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wangyunpeng.chapter2" />
-      <option name="MAIN_CLASS_NAME" value="com.wangyunpeng.chapter2.MethodRefTest" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MethodRefTest.test3" />
-      <item itemvalue="JUnit.MethodRefTest.test4" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.JavaSolution" />
       <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.findLeftLeaves" />
+      <item itemvalue="Application.compareHeight" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.compareHeight" />
+        <item itemvalue="Application.findLeftLeaves" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.JavaSolution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="JUnit.MethodRefTest.test4" />
-        <item itemvalue="JUnit.MethodRefTest.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -632,6 +674,9 @@
       <workItem from="1590760718047" duration="4728000" />
       <workItem from="1590887915667" duration="713000" />
       <workItem from="1590904826006" duration="3209000" />
+      <workItem from="1590927644486" duration="6078000" />
+      <workItem from="1591014795992" duration="1359000" />
+      <workItem from="1591166692196" duration="4160000" />
     </task>
     <task id="LOCAL-00001" summary="java8 lambda表达式">
       <created>1584611729909</created>
@@ -703,7 +748,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586010689656</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="局部最大值解法">
+      <created>1590927737754</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590927737755</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -739,13 +791,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56520000" />
+    <option name="totallyTimeSpent" value="68117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22520107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20375335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -754,7 +806,7 @@
       <window_info id="设计器" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -848,7 +900,8 @@
     <MESSAGE value="java8 lambda表达式" />
     <MESSAGE value="dog == null" />
     <MESSAGE value="反射调用" />
-    <option name="LAST_COMMIT_MESSAGE" value="反射调用" />
+    <MESSAGE value="局部最大值解法" />
+    <option name="LAST_COMMIT_MESSAGE" value="局部最大值解法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -872,10 +925,16 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter3/Solution.java</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/src/chapter3/findLeftLeaves.java</url>
+          <line>30</line>
           <properties />
-          <option name="timeStamp" value="25" />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter3/compareHeight.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1012,6 +1071,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/findLeftLeaves.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyunpeng/chapter2/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -1050,10 +1126,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter3/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter3/compareHeight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="140" column="9" lean-forward="true" selection-start-line="138" selection-start-column="8" selection-end-line="140" selection-end-column="9" />
+        <state relative-caret-position="789">
+          <caret line="63" column="45" lean-forward="true" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
